@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/All-in-one/All-in-one.iml" filepath="$PROJECT_DIR$/All-in-one/All-in-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoframeWork.iml" filepath="$PROJECT_DIR$/egoframeWork.iml" />
+    </modules>
+  </component>
+</project>

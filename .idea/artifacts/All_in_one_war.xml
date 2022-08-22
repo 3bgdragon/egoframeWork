@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="All-in-one:war">
+    <output-path>$PROJECT_DIR$/All-in-one/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>All-in-one</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="egovframework-all-in-one.war">
+      <element id="artifact" artifact-name="All-in-one:war exploded" />
+    </root>
+  </artifact>
+</component>
